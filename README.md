@@ -1,3 +1,3 @@
 # project
 Hi,this is mini project for javascripts.
-I hope it helps you.
+it convertes celsius to fahrenheit.
